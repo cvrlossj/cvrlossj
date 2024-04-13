@@ -1,12 +1,12 @@
-## Hola Mundo
+## Hello World
 
-Hola, soy Carlos, un analista programador de Chile y que estoy incursionando un poco en tecnologías como MySQL, PHP, Tailwind, JavaScript, TypeScript, también en herramientas para el CI/CD junto a Actions de GitHub. Creyendo en el largo plazo, me apasiona el código y disfruto experimentando nuevas ideas.
+Hello, I'm Carlos, a programmer analyst from Chile and I'm dabbling a little in technologies like MySQL, PHP, Tailwind, JavaScript, TypeScript, as well as CI/CD tools along with GitHub Actions. Believing in the long term, I am passionate about code and enjoy experimenting with new ideas.
 
-### Contacto
+### Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csilvadiaz/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlossilvasilvadiaz@gmail.com)
 
-### ⚡ Tecnologias
+### Technologies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,7 +15,7 @@ Hola, soy Carlos, un analista programador de Chile y que estoy incursionando un 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
-### 🔩 Herramientas
+### Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)

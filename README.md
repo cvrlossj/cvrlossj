@@ -1,10 +1,15 @@
-<div align="center">
+<!-- Profile README — cvrlossj -->
 
-# Hey, I'm Carlos 👋
-**Programmer Analyst from Chile 🇨🇱 | Building web products & automations**
+<!-- HERO (left aligned) -->
+<table>
+<tr>
+<td width="72%" valign="top">
 
-I work with **Python/Django**, **TypeScript**, **Tailwind**, **MySQL**, and **CI/CD (GitHub Actions)**.  
-Long-term mindset: build useful things, ship fast, iterate smarter.
+# Hey, I'm Carlos 👋  
+**Programmer Analyst 🇨🇱 | Building web products & automations**
+
+I build with **Django/Python**, **TypeScript**, **Tailwind**, **MySQL**, and **GitHub Actions**.  
+Long-term mindset: **ship fast, learn faster, build systems that scale**.
 
 <p>
   <a href="https://www.linkedin.com/in/csilvadiaz/" target="_blank">
@@ -13,13 +18,21 @@ Long-term mindset: build useful things, ship fast, iterate smarter.
   <a href="mailto:TUEMAIL@GMAIL.COM">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Opcional -->
+  <!-- Optional -->
   <!-- <a href="https://tu-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel" />
   </a> -->
 </p>
 
-</div>
+</td>
+<td width="28%" align="right" valign="top">
+
+<!-- If you want: replace with your own image URL -->
+<img src="https://avatars.githubusercontent.com/u/0?v=4" width="210" alt="Carlos avatar" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -38,17 +51,34 @@ Long-term mindset: build useful things, ship fast, iterate smarter.
 ---
 
 ## 🚀 Focus right now
-- Building **web apps** with Django + modern frontend
-- Creating **automations** and internal tools (Sheets / scripts / workflows)
+- Building **web apps** with Django + modern frontend  
+- Creating **automations** and internal tools (Sheets / scripts / workflows)  
 - Exploring **Telegram-first SaaS** ideas (subscriptions, dashboards, bots)
 
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cvrlossj&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvrlossj&layout=compact&theme=tokyonight&hide_border=true" />
+
+<!-- Option A (usually works) -->
+<div>
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=cvrlossj&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvrlossj&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
+
+<!-- If images break, comment Option A and uncomment Option B below (more stable) -->
+
+<!--
+<div>
+  <img width="820"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cvrlossj&theme=github_dark" />
+  <img height="165"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvrlossj&theme=github_dark" />
+  <img height="165"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvrlossj&theme=github_dark" />
+</div>
+-->
 
 ---
 

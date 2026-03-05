@@ -1,10 +1,5 @@
 <!-- Profile README — cvrlossj -->
 
-<!-- HERO (left aligned) -->
-<table>
-<tr>
-<td width="72%" valign="top">
-
 # Hey, I'm Carlos 👋  
 **Programmer Analyst 🇨🇱 | Building web products & automations**
 
@@ -23,16 +18,6 @@ Long-term mindset: **ship fast, learn faster, build systems that scale**.
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel" />
   </a> -->
 </p>
-
-</td>
-<td width="28%" align="right" valign="top">
-
-<!-- If you want: replace with your own image URL -->
-<img src="https://avatars.githubusercontent.com/u/0?v=4" width="210" alt="Carlos avatar" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -58,27 +43,15 @@ Long-term mindset: **ship fast, learn faster, build systems that scale**.
 ---
 
 ## 📊 GitHub Stats
-
-<!-- Option A (usually works) -->
 <div>
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=cvrlossj&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvrlossj&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cvrlossj&theme=github_dark" />
 </div>
 
-<!-- If images break, comment Option A and uncomment Option B below (more stable) -->
-
-<!--
 <div>
-  <img width="820"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cvrlossj&theme=github_dark" />
-  <img height="165"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvrlossj&theme=github_dark" />
-  <img height="165"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvrlossj&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvrlossj&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvrlossj&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cvrlossj&theme=github_dark" />
 </div>
--->
 
 ---
 

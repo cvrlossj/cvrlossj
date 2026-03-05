@@ -1,18 +1,56 @@
-## Hello World
+<div align="center">
 
-Hello, I'm Carlos, a programmer analyst from Chile and I'm dabbling a little in technologies like MySQL, Python, Tailwind, JavaScript, TypeScript, as well as CI/CD tools along with GitHub Actions. Believing in the long term, I am passionate about code and enjoy experimenting with new ideas.
+# Hey, I'm Carlos 👋
+**Programmer Analyst from Chile 🇨🇱 | Building web products & automations**
 
-### Contact
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csilvadiaz/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlossilvasilvadiaz@gmail.com)
+I work with **Python/Django**, **TypeScript**, **Tailwind**, **MySQL**, and **CI/CD (GitHub Actions)**.  
+Long-term mindset: build useful things, ship fast, iterate smarter.
 
-### Tools
+<p>
+  <a href="https://www.linkedin.com/in/csilvadiaz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:TUEMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- Opcional -->
+  <!-- <a href="https://tu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel" />
+  </a> -->
+</p>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+</div>
 
+---
 
-![Cvrloss Github Stats](https://github-readme-stats.vercel.app/api?username=cvrlossj&show_icons=true&theme=dark)
+## ⚙️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvrlossj&layout=compact&theme=dark)
+---
 
+## 🚀 Focus right now
+- Building **web apps** with Django + modern frontend
+- Creating **automations** and internal tools (Sheets / scripts / workflows)
+- Exploring **Telegram-first SaaS** ideas (subscriptions, dashboards, bots)
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cvrlossj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvrlossj&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Let’s connect
+If you want to collaborate or talk product ideas, reach me on **LinkedIn**.
